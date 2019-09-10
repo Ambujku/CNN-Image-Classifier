@@ -11,8 +11,6 @@ Steps to run the code:
 => It requires python 3 to run. so run by python my_CNN.py in your terminal.
 
 
-Help has been taken from various tutorial.
-
-specially
+Reference for code:
 
 https://becominghuman.ai/building-an-image-classifier-using-deep-learning-in-python-totally-from-a-beginners-perspective-be8dbaf22dd8
